@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <font>
-<format>3.19</format>
-<program version="4.6.1" os="*nix" />
+<format>3.20</format>
+<program version="4.7.11" os="*nix" />
 
 <postscript_name>LW sans</postscript_name>
 <name>LW sans</name>
@@ -41,21 +41,22 @@
 </horizontal>
 
 <grid width="1"/>
-<grid width="2.0029"/>
+<grid width="2.0028"/>
 <grid width="4.0011"/>
-<grid width="2.0001"/>
-<grid width="1.0004"/>
 <grid width="2.0005"/>
+<grid width="1.0004"/>
+<grid width="2.0004"/>
 <grid width="4.0006"/>
-<grid width="2.0007"/>
+<grid width="2.0009"/>
 <grid width="4"/>
 <grid width="2.0002"/>
 <grid width="2"/>
-<grid width="1.0006"/>
-<grid width="1.0008"/>
+<grid width="1.0005"/>
+<grid width="1.0007"/>
 <grid width="1.0003"/>
 <grid width="4.0003"/>
-<grid width="3.9995"/>
+<grid width="3.9994"/>
+<grid width="2.0015"/>
 
 <background scale="1" />
 
@@ -72,33 +73,33 @@
 
 <default_foreground_color></default_foreground_color>
 
-<collection unicode="U+20" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+20" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="9" right="27">
 	</glyph>
 </collection>
 
-<collection unicode="U+21" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+21" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-16.00416" right="16">
 		<layer name="Layer" visible="true">
-			<path data="B -4,72 C -6,72 -8,70 -8.00416,67.93286 C -8.00384,38.76765 -8,50.65263 -8,20 C -8,20 8,20 8,20 C 8,50.65263 7.99616,38.76765 7.99584,67.93286 C 8,70 6,72 4,72 C -4,72 4,72 -4,72" />
-			<path data="B -4,0 M 8,0 M 8,12 C 8,14 6,16 4.2,16 M -8,16 C -8,11.3 -8,9.03329 -8,4 C -8,1.82176 -6,0 -4,0" />
+			<path data="B 0.02784,72.144 C -3.98016,72.144 -7.97216,68.33914 -7.98816,64.128 C -7.97216,62.32714 -7.98816,22.044 -7.98816,20.04 C -7.98816,20.04 6.01128,20.04 8.04384,20.04 C 8.04384,22.044 8.04384,62.124 8.04384,64.128 C 8.09184,68.33914 4.03584,72.144 0.02784,72.144" />
+			<path data="B -4,0 C -1.97616,0 6.03984,0 8,0 C 8.04384,2.004 8.04384,14.028 8.04384,16.032 C 5.87568,16.064 -5.98416,16.032 -8,16 C -7.98816,14.028 -7.98816,6.012 -8,4 C -8,1.82176 -6,0 -4,0" />
 		</layer>
 	</glyph>
 </collection>
 
-<collection unicode="U+22" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+22" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-26.04011" right="25.99791">
 		<layer name="Layer" visible="true">
-			<path data="B 1.99791,72 M 13.99791,72 C 15.99791,72 17.99791,70 17.99791,68 M 17.99791,60 M 13.99791,48 M 1.99791,48 C 1.99791,62.55 1.99791,68 1.99791,72" />
-			<path data="B -2.04011,47.9402 M -14.04011,47.9402 M -18.04011,59.9402 M -18.04011,67.9402 C -18.04011,69.9402 -16.04011,71.9402 -14.04011,71.9402 M -2.04011,71.9402 C -2.04011,67.9402 -2.04011,62.4902 -2.04011,47.9402" />
+			<path data="B -1.93211,48.216 C -3.94111,48.216 -11.97711,48.216 -13.98611,48.216 C -15.99511,54.243 -15.99511,54.243 -18.00411,60.27 C -18.00411,62.279 -18.00411,62.279 -18.00411,64.288 C -18.00411,68.306 -13.98611,72.324 -9.96811,72.324 C -7.95911,72.324 -3.94111,72.324 -1.93211,72.324 C -1.93211,70.315 -1.93211,50.225 -1.93211,48.216" />
+			<path data="B 2.12444,72.3143 C 4.13344,72.3143 8.15144,72.3143 10.16044,72.3143 C 14.17844,72.3143 18.19644,68.2963 18.19644,64.2783 C 18.19644,62.2693 18.19644,62.2693 18.19644,60.2603 C 16.18744,54.2333 16.18744,54.2333 14.17844,48.2063 C 12.16944,48.2063 4.13344,48.2063 2.12444,48.2063 C 2.12444,50.2153 2.12444,70.3053 2.12444,72.3143" />
 		</layer>
 	</glyph>
 </collection>
 
-<collection unicode="U+23" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+23" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-33" right="30">
 		<layer name="Layer" visible="true">
@@ -110,21 +111,29 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+24" svg="false" colr="false" auto_generate="false">
-	<selected id="0"/>
+<collection unicode="U+24" svg="false" colr="false" auto_generate="false" meta_name="">
+	<selected id="1"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
-			<path data="B -20,72 M -12,72 M -11.96621,41.19096 M -12,16 C -18.18633,16 -15.93453,16 -20,16 C -24,16 -28,20 -28,24 C -28,31.94041 -28,28.40016 -28,48.46436 C -28,54.67275 -28,57.23198 -28,64 C -28,68 -24,72 -20,72" />
-			<path data="B 12,72 M 20,72 C 24,72 28,68 28,64 C 26,64 26,64 24,64 C 24,68 22,68 16,68 M 12,68 M 12,72" />
-			<path data="B -12.11494,20 M 19.90387,20 C 22.59413,20 28,18 28,14 C 28,13.025 28,10 28,8 C 28,4 24,0 20,0 C 14,0 12,0 12,0 C 12.2,0 12,13.55 12,16 M -12.01881,16 M -12.11494,20" />
-			<path data="B -12,0 M -20.12905,-0.01724 C -24.12905,-0.01724 -28,4 -28,8 C -26,8 -26,8 -24,8 C -24,4 -22,4 -16,4 M -12,4 C -12,2 -12,2 -12,0" />
-			<path data="B -8,4 M 8,12 M 8,-4 M -8,-4 M -8,4" />
-			<path data="B -8,76 M 8,76 M 8,66 M -8,60 M -8,76" />
+			<path data="B -22.964,72.324 M -14.928,72.324 C -14.928,70.76473 -14.928,22.099 -14.928,20.09 C -12.919,20.09 17.216,20.09 19.225,20.09 C 23.243,20.09 27.261,16.072 27.261,12.054 C 27.261,10.045 27.261,10.045 27.261,8.036 C 27.261,4.018 23.243,0 19.225,0 C 17.216,0 11.189,0 9.18,0 C 9.18,2.009 9.17964,16.16991 9.18,16.072 C 2.99367,16.072 -18.85483,16 -22.9203,16 C -26.9203,16 -30.9203,20 -30.9203,24 C -30.9203,49.89041 -31,62.279 -31,64.288 C -31,68.288 -26.982,72.324 -22.964,72.324" />
+			<path data="B 9.18,72.324 C 11.189,72.324 15.207,72.324 17.216,72.324 C 21.216,72.324 25.14,70.175 25.14,66.165 C 23.14,66.165 23.13,66.165 21.13,66.165 C 21.13,68.17 17.216,68.306 13.198,68.306 M 9.18,68.306 M 9.18,72.324" />
+			<path data="B -14.928,0 C -16.937,0 -28.90565,0.01724 -31,0 C -31,2.005 -31,2.005 -31,4.01 C -28.995,4.01 -16.965,4.01 -14.928,4.018 C -14.928,2.018 -14.928,2 -14.928,0" />
+			<path data="B -10.91,4.018 M 5.162,12.054 C 5.2443,10.099 5.162,-2.009 5.0797,-4 C 3.153,-4.018 -8.901,-4.018 -10.91,-4.018 C -10.91,-2.009 -10.91,2.009 -10.91,4.018" />
+			<path data="B -10.91,76.342 C -8.901,76.342 3.153,76.342 5.162,76.342 C 5.162,74.333 5.162,68.306 5.162,66.297 M -10.91,60.27 C -10.91,62.279 -10.91,74.333 -10.91,76.342" />
+		</layer>
+	</glyph>
+	<glyph id="1" left="-31" right="31">
+		<layer name="Layer" visible="true">
+			<path data="B -22.964,72.324 C -20.975,72.18 -8.945,72.18 -6.94,72.18 C -6.94,70.175 -6.94,70.175 -6.94,68.17 C -8.945,68.17 -8.977,68.2032 -10.95,68.17 C -12.955,68.17 -14.96,66.165 -14.96,64.16 C -14.96,62.155 -14.992,26.025 -14.96,24.06 C -14.96,22.055 -13.00831,20.09 -10.81685,20.09 C -8.945,20.05 17.12,20.05 19.225,20.09 C 23.243,20.09 27.261,16.072 27.261,12.054 C 27.261,10.045 27.261,10.045 27.261,8.036 C 27.261,4.018 23.243,0 19.225,0 C 17.216,0 3.089,0 1.08,0 C 1.08,2.005 1.08,2.005 1.08,4.01 C 3.085,4.01 3.04525,4.00343 5.09,4.01 C 7.095,4.01 9.1,6.015 9.1,8.02 C 9.08662,9.70779 9.0783,11.17697 9.15221,12.0982 C 9.16566,14.31955 7.015,16.008 5.09,16.04 C 3.005,16.008 -18.85483,16 -22.9203,16 C -26.9203,16 -30.9203,20 -30.9203,24 C -30.9203,49.89041 -31,62.279 -31,64.288 C -31,68.288 -26.982,72.324 -22.964,72.324" />
+			<path data="B 1.08,72.18 C 3.089,72.18 15.207,72.324 17.216,72.324 C 21.216,72.324 25.14,70.175 25.14,66.165 C 23.14,66.165 23.13,66.165 21.13,66.165 C 21.13,68.17 17.128,68.17 13.11,68.17 C 11.105,68.17 3.085,68.17 1.08,68.17 C 1.08,70.175 1.08,70.175 1.08,72.18" />
+			<path data="B -6.94,0 C -8.949,0 -28.90565,0.01724 -31,0 C -31,2.005 -31,2.005 -31,4.01 C -28.995,4.01 -8.977,4.002 -6.94,4.01 C -6.94,2.01 -6.94,2 -6.94,0" />
+			<path data="B -4.935,12.03 C -2.93,12.03 -2.97852,12.006 -0.925,12.03 C -0.8427,10.075 -0.8427,-2.019 -0.925,-4.01 C -2.8517,-4.028 -4.935,-2.005 -4.935,0 C -4.935,2.009 -4.935,10.021 -4.935,12.03" />
+			<path data="B -4.935,76.19 C -2.926,76.19 -0.925,74.185 -0.925,72.18 C -0.925,70.171 -0.925,26.069 -0.925,24.06 C -2.93,24.06 -2.93,24.06 -4.935,24.06 C -4.935,26.069 -4.935,74.181 -4.935,76.19" />
 		</layer>
 	</glyph>
 </collection>
 
-<collection unicode="U+25" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+25" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -142,7 +151,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+26" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+26" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="30">
 		<layer name="Layer" visible="true">
@@ -156,7 +165,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+27" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+27" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-16" right="16">
 		<layer name="Layer" visible="true">
@@ -165,7 +174,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+28" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+28" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-20.01475" right="20.03344">
 		<layer name="Layer" visible="true">
@@ -174,7 +183,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+29" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+29" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-20.01475" right="20.03344">
 		<layer name="Layer" visible="true">
@@ -183,7 +192,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+2a" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+2a" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -205,7 +214,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+2b" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+2b" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28.00906" right="27.99094">
 		<layer name="Layer" visible="true">
@@ -215,7 +224,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+2c" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+2c" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-16" right="16">
 		<layer name="Layer" visible="true">
@@ -224,7 +233,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+2d" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+2d" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -233,7 +242,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+2e" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+2e" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-16" right="16">
 		<layer name="Layer" visible="true">
@@ -242,7 +251,7 @@
 	</glyph>
 </collection>
 
-<collection name=".notdef" svg="false" colr="false" auto_generate="false">
+<collection name=".notdef" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-20" right="33">
 		<layer name="Layer" visible="true">
@@ -252,7 +261,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+2f" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+2f" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-20.81962" right="21.09822">
 		<layer name="Layer" visible="true">
@@ -261,7 +270,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+30" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+30" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-35.06631" right="29.28">
 		<layer name="Layer" visible="true">
@@ -270,7 +279,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+31" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+31" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="2"/>
 	<glyph id="1" left="-20.91202" right="21.09284">
 		<layer name="Layer" visible="true">
@@ -284,7 +293,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+32" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+32" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="2"/>
 	<glyph id="1" left="-34.55118" right="27.80126">
 		<layer name="Layer" visible="true">
@@ -293,48 +302,48 @@
 	</glyph>
 	<glyph id="2" left="-34.55118" right="27.80126">
 		<layer name="Layer" visible="true">
-			<path data="B 13.61682,72.252 C 15.62382,72.252 21.64482,72.252 21.64482,64.224 C 21.64482,56.196 19.63782,56.196 13.61682,50.175 C 3.58182,40.14 -2.43918,34.119 -12.47418,24.084 C -16.48818,20.07 -18.49518,16.056 -18.49518,12.042 C -18.49518,10.035 -18.51403,10.035 -18.51403,8.028 C -18.51403,6.021 -16.50703,4.014 -14.50003,4.014 C -12.45683,4.014 19.57659,3.98417 21.53339,3.98417 M 21.53339,-0.01583 C 19.57659,-0.01583 -24.38021,-0.01583 -26.42341,-0.01583 C -30.53718,0 -34.55118,4.014 -34.55118,8.028 C -34.55118,10.035 -34.55118,12.042 -34.55118,14.049 C -34.55118,18.063 -30.53718,22.077 -30.53718,22.077 C -28.53018,24.084 3.58182,56.196 5.58882,58.203 C 9.60282,62.217 7.59582,68.238 -0.43218,68.238 C -2.38898,68.238 -20.46598,68.238 -22.50918,68.238 C -26.52318,68.238 -30.53718,68.238 -30.53718,66.231 C -32.54418,66.231 -32.54418,66.231 -34.55118,66.231 C -34.55118,68.238 -30.57724,72.36417 -26.52318,72.252 C -24.55624,72.36417 11.60982,72.252 13.61682,72.252" />
+			<path data="B 13.56882,72.18 C 15.52582,72.108 21.64482,72.252 21.64482,64.224 C 21.64482,56.196 19.63782,56.196 13.61682,50.175 C 3.58182,40.14 -2.43918,34.119 -12.47418,24.084 C -16.48818,20.07 -18.49518,16.056 -18.49518,12.042 C -18.49518,10.035 -18.51403,10.035 -18.51403,8.028 C -18.51403,6.021 -16.50703,4.014 -14.50003,4.014 C -12.45683,4.014 19.57659,3.98417 21.53339,3.98417 M 21.53339,-0.01583 C 19.57659,-0.01583 -24.38021,-0.01583 -26.42341,-0.01583 C -30.53718,0 -34.55118,4.014 -34.55118,8.028 C -34.55118,10.035 -34.55118,12.042 -34.55118,14.049 C -34.55118,18.063 -30.53718,22.077 -30.53718,22.077 C -28.53018,24.084 3.58182,56.196 5.58882,58.203 C 9.60282,62.217 7.56182,68.17 -0.46618,68.17 C -2.47118,68.17 -20.51618,68.17 -22.52118,68.17 C -26.53118,68.17 -30.54518,68.104 -30.54118,66.165 C -32.54818,66.165 -32.54418,66.165 -34.55118,66.165 C -34.65578,68.02602 -30.54118,72.18 -26.53118,72.18 C -24.52618,72.18 11.56382,72.18 13.56882,72.18" />
 		</layer>
 	</glyph>
 </collection>
 
-<collection unicode="U+33" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+33" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="1" left="-35" right="29.28">
 		<layer name="Layer" visible="true">
-			<path data="B -18.94,68.34 C -16.94,68.34 3.17,68.34 5.18,68.34 C 7.19,68.34 9.2,66.33 9.2,64.32 C 9.2,63.41324 9.2,22.11 9.2,20.1 C 7.19,20.1 -8.89,20.1 -10.9,20.1 C -10.9,18.09 -10.9,18.09 -10.9,16.08 C -8.89,16.08 7.19,16.08 9.2,16.18698 C 9.2,14.07 9.22,6.03 9.22,4.02 C 9.22,4.01 -28.97,4.02 -31,4.02 C -31,2.01 -31,2.01 -31,0 C -29,0 15.24,0 17.24,0 C 21.26,0 25.28,4.02 25.28,8.04 C 25.28,10.05 25.28,12.06 25.28,14.07 C 25.28,16.07 23.59631,18.18 21.26,18.09 C 23.26,18.09 25.28,20.11 25.28,22.11 C 25.28,24.11 25.28,62.31 25.28,64.32 C 25.28,68.34 21.26,72.36 17.24,72.36 C 15.23,72.36 -20.96,72.36 -22.96,72.36 C -26.98,72.36 -30.98,70.35 -30.98,66.33 C -28.97,66.33 -28.96,66.33 -26.96,66.33 C -26.96,68.34 -24.94,68.34 -18.94,68.34" />
+			<path data="B -18.96,68.17 C -16.96,68.17 3.095,68.17 5.1,68.17 C 7.11,68.17 9.11,66.165 9.11,64.16 C 9.02,61.995 9.11,22.06 9.11,20.05 C 7.1,20.05 -8.93,20.05 -10.94,20.05 C -10.94,18.04 -10.94,18.05 -10.94,16.04 C -8.93,16.04 7.19,16.08 9.2,16.18698 C 9.2,14.07 9.22,6.03 9.22,4.02 C 9.22,4.01 -28.97,4.02 -31,4.02 C -31,2.01 -31,2.01 -31,0 C -29,0 15.24,0 17.24,0 C 21.26,0 25.28,4.02 25.28,8.04 C 25.28,10.05 25.28,12.06 25.28,14.07 C 25.28,16.07 23.59631,18.18 21.26,18.09 C 23.26,18.09 25.28,20.11 25.28,22.11 C 25.28,24.11 25.28,62.31 25.28,64.32 C 25.28,68.34 21.15,72.18 17.13,72.18 C 15.125,72.18 -20.97,72.18 -22.97,72.18 C -26.98,72.18 -30.99,70.175 -30.98,66.33 C -28.97,66.33 -28.96,66.33 -26.96,66.33 C -26.98,68.17 -22.97,68.17 -18.96,68.17" />
 		</layer>
 	</glyph>
 </collection>
 
-<collection unicode="U+34" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+34" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-34.07244" right="29.28">
 		<layer name="Layer" visible="true">
-			<path data="B 8.20947,16.08 C 6.20547,16.08 -22.02666,16.16216 -23.95053,16.08 C -28.04666,16.13016 -32.06297,20.15989 -32.06297,24.10973 C -32.06297,26.16173 -31.99053,62.444 -31.99053,64.32 C -31.99053,68.34 -30.05244,72.36 -26.03244,72.36 C -26.03244,70.36 -26.03244,70.34 -26.03244,68.34 C -28.04244,68.34 -27.97053,64.32 -27.97053,60.3 C -27.96253,58.416 -28.06297,28.10973 -28.06297,28.10973 C -28.06297,22.10973 -28.02666,20.15016 -19.93053,20.1 C -17.99866,20.19016 6.20547,20.1 8.20947,20.1 C 8.20947,22.11 8.20947,70.35 8.20947,72.36 M 16.24947,72.36 C 20.26947,72.36 24.28947,68.34 24.28947,64.32 C 24.28947,62.31 24.28947,2.01 24.28947,0 C 22.27947,0 10.21947,0 8.20947,0 C 8.20947,2.01 8.20947,10.72 8.20947,16.08" />
+			<path data="B 8.20947,16.08 C 6.20547,16.08 -22.02666,16.16216 -23.95053,16.08 C -28.04666,16.13016 -32.06297,20.15989 -32.06297,24.10973 C -32.06297,26.16173 -32.06744,62.284 -32.06744,64.16 C -32.06744,68.18 -30.06244,72.18 -26.05244,72.18 C -26.05244,70.18 -26.05244,70.17 -26.05244,68.17 C -28.06244,68.17 -28.14435,64.01 -28.05744,60.15 C -28.05744,58.145 -28.06297,28.10973 -28.06297,28.10973 C -28.06297,22.10973 -28.02666,20.15016 -19.93053,20.1 C -17.99866,20.19016 6.20547,20.1 8.20947,20.1 C 8.20947,22.11 8.20947,70.35 8.20947,72.36 M 16.24947,72.36 C 20.26947,72.36 24.28947,68.34 24.28947,64.32 C 24.28947,62.31 24.28947,2.01 24.28947,0 C 22.27947,0 10.21947,0 8.20947,0 C 8.20947,2.01 8.20947,10.72 8.20947,16.08" />
 		</layer>
 	</glyph>
 </collection>
 
-<collection name="47" svg="false" colr="false" auto_generate="false">
+<collection name="47" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-38.006" right="46.146">
 		<layer name="Layer" visible="true">
-			<path data="B 36.364,72.36 C 40.364,72.36 44.404,68.32 44.404,64.32 C 36.404,36.32 30.334,18.09 25.11925,-0.036 C 23.098,-0.036 11.074,-0.036 9.11216,-0.036 C 20.284,36.18 22.294,40.2 28.324,64.32 C 28.324,66.32 26.304,68.34 24.304,68.34 C 22.304,68.34 4.194,68.34 2.194,68.34 C 2.194,66.336 1.994,2.004 1.994,0 C -0.006,0 -12.006,0 -14.04244,-0.036 C -14.006,2 -14.006,14 -14.006,16 C -16.01,16 -28.05844,15.996 -29.98231,15.91384 C -34.07844,15.964 -38.07844,20.01416 -38.07844,23.964 C -38.07844,26.016 -38.07844,62.088 -38.07844,63.964 C -38.07844,67.964 -35.976,72.36 -31.976,72.36 C -31.976,70.36 -31.976,70.34 -31.976,68.34 C -33.986,68.34 -34.07844,65.964 -34.07844,59.964 C -34.07044,58.08 -34.07844,27.964 -34.07844,27.964 C -34.07844,21.964 -34.04213,20.15016 -25.946,20.1 C -23.936,20.1 -15.886,20.1 -13.886,20.1 C -13.886,21.79546 -13.886,66.33 -13.886,68.34 C -13.886,70.35 -11.876,72.36 -9.866,72.36 C -7.866,72.36 34.364,72.36 36.364,72.36" />
+			<path data="B 36.364,72.36 C 40.364,72.36 44.404,68.32 44.404,64.32 C 36.404,36.32 30.334,18.09 25.11925,-0.036 C 23.098,-0.036 11.074,-0.036 9.11216,-0.036 C 20.284,36.18 22.294,40.2 28.324,64.32 C 28.324,66.32 26.304,68.34 24.304,68.34 C 22.304,68.34 4.194,68.34 2.194,68.34 C 2.194,66.336 1.994,2.004 1.994,0 C -0.006,0 -12.006,0 -14.04244,-0.036 C -14.006,2 -14.006,14 -14.006,16 C -16.01,16 -28.05844,15.996 -29.98231,15.91384 C -34.07844,15.964 -38.07844,20.01416 -38.07844,23.964 C -38.07844,26.016 -38.006,62.155 -38.006,64.16 C -38.006,68.17 -35.991,72.18 -31.991,72.18 C -31.991,70.18 -31.991,70.17 -31.991,68.17 C -34.001,68.17 -33.996,64.16 -33.996,60.15 C -33.988,58.266 -34.07844,27.964 -34.07844,27.964 C -34.07844,21.964 -34.04213,20.15016 -25.946,20.1 C -23.936,20.1 -15.886,20.1 -13.886,20.1 C -13.886,21.79546 -13.886,66.33 -13.886,68.34 C -13.886,70.35 -11.876,72.36 -9.866,72.36 C -7.866,72.36 34.364,72.36 36.364,72.36" />
 		</layer>
 	</glyph>
 </collection>
 
-<collection unicode="U+35" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+35" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-34.55118" right="27.80126">
 		<layer name="Layer" visible="true">
-			<path data="B -24.50171,72.36 C -22.49171,72.36 13.68829,72.36 15.69829,72.36 C 19.71829,72.36 23.73882,70.35 23.73882,66.33 C 21.72882,66.33 21.72882,66.33 19.71882,66.33 C 19.71882,68.34 15.69829,68.34 11.67829,68.34 C 9.66829,68.34 -20.48171,68.34 -22.49171,68.34 C -26.51171,68.34 -28.52171,66.33 -28.52171,62.31 C -28.52171,60.3 -28.52171,28.14 -28.52171,26.13 C -28.52171,22.11 -26.51171,20.1 -22.49171,20.1 C -20.48771,20.1 13.68829,20.1 15.69829,20.1 C 19.70629,20.1 23.73829,16.068 23.73829,12.06 C 23.73829,10.056 23.81073,10.02 23.81073,8.016 C 23.81073,4.008 19.80273,0 15.79473,0 C 13.68829,0 -30.53171,0 -32.54171,0 C -32.54171,2.01 -32.54171,2.01 -32.54171,4.02 C -30.53171,4.02 1.62829,4.02 3.63829,4.02 C 5.64829,4.02 7.65829,6.03 7.65829,8.04 C 7.62895,9.62607 7.65829,11.08012 7.65829,12.06 C 7.65829,14.07 5.64829,16.08 3.63829,16.08 C 1.63429,16.08 -24.50171,16.08 -24.50171,16.08 C -28.52171,16.08 -32.54171,20.1 -32.54171,24.12 C -32.54171,26.13 -32.54171,64.32 -32.54171,66.33 C -32.54171,70.35 -28.52171,72.36 -24.50171,72.36" />
+			<path data="B -24.52618,72.18 C -22.51618,72.18 13.56882,72.18 15.57382,72.18 C 19.58382,72.18 23.59382,70.175 23.59382,66.165 C 21.58382,66.165 21.59382,66.165 19.58382,66.165 C 19.58382,68.17 15.57382,68.17 11.56382,68.17 C 9.55882,68.17 -20.51118,68.17 -22.52118,68.17 C -26.54118,68.17 -28.53618,66.165 -28.53618,62.155 C -28.53618,60.15 -28.52171,28.14 -28.52171,26.13 C -28.52171,22.11 -26.51171,20.1 -22.49171,20.1 C -20.48771,20.1 13.68829,20.1 15.69829,20.1 C 19.70629,20.1 23.73829,16.068 23.73829,12.06 C 23.73829,10.056 23.81073,10.02 23.81073,8.016 C 23.81073,4.008 19.80273,0 15.79473,0 C 13.68829,0 -30.53171,0 -32.54171,0 C -32.54171,2.01 -32.54171,2.01 -32.54171,4.02 C -30.53171,4.02 1.62829,4.02 3.63829,4.02 C 5.64829,4.02 7.65829,6.03 7.65829,8.04 C 7.62895,9.62607 7.65829,11.08012 7.65829,12.06 C 7.65829,14.07 5.64829,16.08 3.63829,16.08 C 1.63429,16.08 -24.50171,16.08 -24.50171,16.08 C -28.52171,16.08 -32.54171,20.1 -32.54171,24.12 C -32.54171,26.13 -32.54618,64.155 -32.54618,66.165 C -32.54618,70.175 -28.54618,72.18 -24.52618,72.18" />
 		</layer>
 	</glyph>
 </collection>
 
-<collection name="57" svg="false" colr="false" auto_generate="false">
+<collection name="57" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-34.55118" right="27.80126">
 		<layer name="Layer" visible="true">
@@ -343,7 +352,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+36" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+36" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-35" right="28.28">
 		<layer name="Layer" visible="true">
@@ -352,7 +361,7 @@
 	</glyph>
 </collection>
 
-<collection name="67" svg="false" colr="false" auto_generate="false">
+<collection name="67" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-35" right="28.28">
 		<layer name="Layer" visible="true">
@@ -361,16 +370,16 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+37" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+37" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="26.27">
 		<layer name="Layer" visible="true">
-			<path data="B -22.95053,72.36 C -20.94053,72.36 13.23547,72.36 15.23947,72.36 C 19.25947,72.36 23.27947,68.34 23.27947,64.32 C 17.24947,42.21 13.22947,30.15 5.18888,0 C 3.16763,0 -8.85637,0 -10.81821,0 C -4.86053,20.1 3.17,48.24 7.19947,64.32 C 7.19947,68.34 5.18947,68.34 3.17947,68.34 C 1.16947,68.34 -17.38496,68.34 -18.93053,68.34 C -22.95053,68.34 -26.98,68.34 -26.98,66.33 C -28.99,66.33 -28.99947,66.33 -31,66.33 C -31,70.35 -26.97053,72.36 -22.95053,72.36" />
+			<path data="B -22.98,72.18 C -20.975,72.18 13.11,72.18 15.115,72.18 C 19.125,72.18 23.27947,68.34 23.27947,64.32 C 17.24947,42.21 13.22947,30.15 5.18888,0 C 3.16763,0 -8.85637,0 -10.81821,0 C -4.86053,20.1 3.17,48.24 7.19947,64.32 C 7.19947,68.34 5.09,68.17 3.085,68.17 C 1.08,68.17 -16.965,68.17 -18.97,68.17 C -22.99,68.17 -26.99,68.17 -26.98,66.33 C -28.99,66.33 -28.99947,66.33 -31,66.33 C -31,70.175 -26.99,72.18 -22.98,72.18" />
 		</layer>
 	</glyph>
 </collection>
 
-<collection unicode="U+38" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+38" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-35.07244" right="29.32939">
 		<layer name="Layer" visible="true">
@@ -379,7 +388,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+39" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+39" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-35" right="29.28">
 		<layer name="Layer" visible="true">
@@ -388,7 +397,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+3a" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+3a" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-16" right="16.07769">
 		<layer name="Layer" visible="true">
@@ -398,7 +407,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+3b" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+3b" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-16" right="16.07769">
 		<layer name="Layer" visible="true">
@@ -408,7 +417,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+3c" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+3c" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-23" right="23">
 		<layer name="Layer" visible="true">
@@ -417,7 +426,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+3d" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+3d" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28.00906" right="28">
 		<layer name="Layer" visible="true">
@@ -427,7 +436,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+3e" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+3e" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-23" right="23">
 		<layer name="Layer" visible="true">
@@ -436,7 +445,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+3f" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+3f" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -452,7 +461,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+40" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+40" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30">
 		<layer name="Layer" visible="true">
@@ -461,7 +470,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+41" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+41" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-36" right="26.02043">
 		<layer name="Layer" visible="true">
@@ -470,7 +479,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+42" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+42" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-36" right="29">
 		<layer name="Layer" visible="true">
@@ -479,7 +488,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+43" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+43" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-36" right="28">
 		<layer name="Layer" visible="true">
@@ -488,7 +497,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+44" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+44" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-36" right="29">
 		<layer name="Layer" visible="true">
@@ -497,7 +506,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+45" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+45" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-36" right="29">
 		<layer name="Layer" visible="true">
@@ -506,7 +515,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+46" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+46" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-40" right="24">
 		<layer name="Layer" visible="true">
@@ -515,7 +524,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+47" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+47" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-36" right="29">
 		<layer name="Layer" visible="true">
@@ -524,7 +533,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+48" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+48" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-40" right="24.072">
 		<layer name="Layer" visible="true">
@@ -534,7 +543,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+49" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+49" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-17.01732" right="5.072">
 		<layer name="Layer" visible="true">
@@ -543,7 +552,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+4a" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+4a" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-32" right="30">
 		<layer name="Layer" visible="true">
@@ -552,7 +561,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+4b" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+4b" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-36" right="29">
 		<layer name="Layer" visible="true">
@@ -561,7 +570,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+4c" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+4c" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-36" right="26">
 		<layer name="Layer" visible="true">
@@ -570,7 +579,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+4d" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+4d" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-36" right="30">
 		<layer name="Layer" visible="true">
@@ -579,7 +588,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+4e" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+4e" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-44" right="28.072">
 		<layer name="Layer" visible="true">
@@ -593,7 +602,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+4f" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+4f" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-38.9424" right="25.0576">
 		<layer name="Layer" visible="true">
@@ -602,7 +611,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+50" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+50" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-40.03751" right="23.96249">
 		<layer name="Layer" visible="true">
@@ -611,7 +620,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+51" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+51" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -628,7 +637,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+52" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+52" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-36" right="31">
 		<layer name="Layer" visible="true">
@@ -637,7 +646,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+53" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+53" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-35" right="28.01881">
 		<layer name="Layer" visible="true">
@@ -651,7 +660,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+54" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+54" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -667,7 +676,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+55" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+55" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-36.0637" right="30">
 		<layer name="Layer" visible="true">
@@ -676,7 +685,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+56" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+56" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-31" right="29">
 		<layer name="Layer" visible="true">
@@ -690,7 +699,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+57" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+57" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -706,7 +715,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+58" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+58" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-35" right="29">
 		<layer name="Layer" visible="true">
@@ -715,7 +724,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+59" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+59" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-34" right="30.00125">
 		<layer name="Layer" visible="true">
@@ -724,7 +733,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+5a" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+5a" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -733,7 +742,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+5b" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+5b" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-20.02508" right="20.03344">
 		<layer name="Layer" visible="true">
@@ -742,7 +751,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+5d" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+5d" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-20.02508" right="20.03344">
 		<layer name="Layer" visible="true">
@@ -751,7 +760,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+61" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+61" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-36" right="26.02043">
 		<layer name="Layer" visible="true">
@@ -760,7 +769,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+62" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+62" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-36" right="29">
 		<layer name="Layer" visible="true">
@@ -769,7 +778,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+63" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+63" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-35" right="28">
 		<layer name="Layer" visible="true">
@@ -778,7 +787,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+64" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+64" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-33" right="29">
 		<layer name="Layer" visible="true">
@@ -787,7 +796,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+65" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+65" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-35" right="29">
 		<layer name="Layer" visible="true">
@@ -796,7 +805,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+66" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+66" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-35" right="13">
 		<layer name="Layer" visible="true">
@@ -805,7 +814,7 @@
 	</glyph>
 </collection>
 
-<collection name="ff" svg="false" colr="false" auto_generate="false">
+<collection name="ff" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="1" left="-31" right="19">
 		<layer name="Layer" visible="true">
@@ -815,7 +824,7 @@
 	</glyph>
 </collection>
 
-<collection name="fi" svg="false" colr="false" auto_generate="false">
+<collection name="fi" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-26.10031" right="35.89969">
 		<layer name="Layer" visible="true">
@@ -825,7 +834,7 @@
 	</glyph>
 </collection>
 
-<collection name="ft" svg="false" colr="false" auto_generate="false">
+<collection name="ft" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-34" right="40">
 		<layer name="Layer" visible="true">
@@ -834,7 +843,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+67" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+67" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="32">
 		<layer name="Layer" visible="true">
@@ -843,7 +852,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+68" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+68" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-32" right="32">
 		<layer name="Layer" visible="true">
@@ -852,7 +861,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+69" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+69" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-12.10031" right="12">
 		<layer name="Layer" visible="true">
@@ -862,7 +871,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+6a" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+6a" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="12.00548">
 		<layer name="Layer" visible="true">
@@ -872,7 +881,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+6b" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+6b" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31.96548" right="31">
 		<layer name="Layer" visible="true">
@@ -881,7 +890,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+6c" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+6c" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-12.10031" right="11.89969">
 		<layer name="Layer" visible="true">
@@ -890,7 +899,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+6d" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+6d" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -905,7 +914,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+6e" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+6e" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-32" right="32">
 		<layer name="Layer" visible="true">
@@ -914,7 +923,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+6f" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+6f" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-32" right="32">
 		<layer name="Layer" visible="true">
@@ -923,7 +932,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+70" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+70" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-32" right="32">
 		<layer name="Layer" visible="true">
@@ -932,7 +941,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+71" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+71" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="32">
 		<layer name="Layer" visible="true">
@@ -946,7 +955,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+72" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+72" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-32" right="30">
 		<layer name="Layer" visible="true">
@@ -955,7 +964,7 @@
 	</glyph>
 </collection>
 
-<collection name="ra" svg="false" colr="false" auto_generate="false">
+<collection name="ra" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-34" right="39.95856">
 		<layer name="Layer" visible="true">
@@ -965,7 +974,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+73" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+73" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -974,7 +983,7 @@
 	</glyph>
 </collection>
 
-<collection name="star" svg="false" colr="false" auto_generate="false">
+<collection name="star" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -983,7 +992,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+74" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+74" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -997,7 +1006,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+75" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+75" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-32" right="32">
 		<layer name="Layer" visible="true">
@@ -1006,7 +1015,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+76" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+76" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30">
 		<layer name="Layer" visible="true">
@@ -1015,7 +1024,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+77" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+77" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-29" right="30">
 		<layer name="Layer" visible="true">
@@ -1024,7 +1033,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+78" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+78" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -1038,7 +1047,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+79" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+79" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-32" right="32">
 		<layer name="Layer" visible="true">
@@ -1054,7 +1063,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+7a" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+7a" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -1063,7 +1072,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+7b" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+7b" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-26" right="20.03344">
 		<layer name="Layer" visible="true">
@@ -1072,7 +1081,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+7d" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+7d" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-26" right="20.03344">
 		<layer name="Layer" visible="true">
@@ -1081,7 +1090,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+7e" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+7e" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1090,7 +1099,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+a3" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+a3" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1099,7 +1108,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+03bb" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+03bb" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1108,7 +1117,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0401" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0401" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-36" right="29">
 		<layer name="Layer" visible="true">
@@ -1119,7 +1128,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0410" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0410" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-36" right="26.02043">
 		<layer name="Layer" visible="true">
@@ -1128,7 +1137,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0411" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0411" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -1137,7 +1146,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0412" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0412" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-36" right="29">
 		<layer name="Layer" visible="true">
@@ -1146,7 +1155,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0413" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0413" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -1155,7 +1164,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0414" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0414" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-35" right="35.02205">
 		<layer name="Layer" visible="true">
@@ -1170,7 +1179,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0415" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0415" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-36" right="29">
 		<layer name="Layer" visible="true">
@@ -1179,7 +1188,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0416" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0416" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -1188,7 +1197,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0417" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0417" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -1197,7 +1206,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0418" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0418" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -1212,7 +1221,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0419" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0419" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -1229,7 +1238,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+041a" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+041a" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-36" right="29">
 		<layer name="Layer" visible="true">
@@ -1238,7 +1247,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+041b" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+041b" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-30" right="31">
 		<layer name="Layer" visible="true">
@@ -1253,7 +1262,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+041c" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+041c" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-36" right="30">
 		<layer name="Layer" visible="true">
@@ -1267,7 +1276,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+041d" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+041d" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-40" right="24.072">
 		<layer name="Layer" visible="true">
@@ -1277,7 +1286,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+041e" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+041e" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-38.9424" right="25.0576">
 		<layer name="Layer" visible="true">
@@ -1286,7 +1295,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+041f" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+041f" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -1296,7 +1305,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0420" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0420" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-40.03751" right="23.96249">
 		<layer name="Layer" visible="true">
@@ -1305,7 +1314,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0421" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0421" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-36" right="28">
 		<layer name="Layer" visible="true">
@@ -1314,7 +1323,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0422" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0422" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1330,7 +1339,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0423" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0423" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-34" right="30.00125">
 		<layer name="Layer" visible="true">
@@ -1339,7 +1348,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0424" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0424" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1355,7 +1364,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0425" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0425" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-35" right="29">
 		<layer name="Layer" visible="true">
@@ -1364,7 +1373,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0426" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0426" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -1373,7 +1382,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0427" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0427" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -1382,7 +1391,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0428" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0428" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1398,7 +1407,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0429" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0429" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1418,7 +1427,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+042a" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+042a" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -1427,7 +1436,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+042b" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+042b" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -1437,7 +1446,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+042c" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+042c" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -1446,7 +1455,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+042d" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+042d" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -1455,7 +1464,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+042e" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+042e" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -1464,7 +1473,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+042f" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+042f" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-36" right="31">
 		<layer name="Layer" visible="true">
@@ -1473,7 +1482,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0430" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0430" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30">
 		<layer name="Layer" visible="true">
@@ -1482,7 +1491,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0431" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0431" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30.112">
 		<layer name="Layer" visible="true">
@@ -1492,7 +1501,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0432" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0432" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30.112">
 		<layer name="Layer" visible="true">
@@ -1501,7 +1510,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0433" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0433" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30.112">
 		<layer name="Layer" visible="true">
@@ -1510,7 +1519,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0434" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0434" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30.112">
 		<layer name="Layer" visible="true">
@@ -1520,7 +1529,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0435" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0435" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -1529,7 +1538,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0436" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0436" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30">
 		<layer name="Layer" visible="true">
@@ -1540,7 +1549,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0437" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0437" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30">
 		<layer name="Layer" visible="true">
@@ -1549,7 +1558,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0438" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0438" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="34">
 		<layer name="Layer" visible="true">
@@ -1558,7 +1567,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0439" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0439" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="34">
 		<layer name="Layer" visible="true">
@@ -1568,7 +1577,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+043a" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+043a" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30.01429" right="30">
 		<layer name="Layer" visible="true">
@@ -1578,7 +1587,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+043b" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+043b" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30">
 		<layer name="Layer" visible="true">
@@ -1588,7 +1597,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+043c" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+043c" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30.112">
 		<layer name="Layer" visible="true">
@@ -1598,7 +1607,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+043d" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+043d" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1614,7 +1623,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+043e" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+043e" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30">
 		<layer name="Layer" visible="true">
@@ -1623,7 +1632,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+043f" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+043f" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30">
 		<layer name="Layer" visible="true">
@@ -1632,7 +1641,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0440" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0440" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30">
 		<layer name="Layer" visible="true">
@@ -1641,7 +1650,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0441" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0441" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -1650,7 +1659,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0442" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0442" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30">
 		<layer name="Layer" visible="true">
@@ -1661,7 +1670,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0443" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0443" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30">
 		<layer name="Layer" visible="true">
@@ -1671,7 +1680,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0444" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0444" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30">
 		<layer name="Layer" visible="true">
@@ -1689,7 +1698,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0445" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0445" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30">
 		<layer name="Layer" visible="true">
@@ -1698,7 +1707,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0446" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0446" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="34.02205">
 		<layer name="Layer" visible="true">
@@ -1708,7 +1717,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0447" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0447" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30.00125">
 		<layer name="Layer" visible="true">
@@ -1717,7 +1726,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0448" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0448" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30">
 		<layer name="Layer" visible="true">
@@ -1728,7 +1737,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0449" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0449" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="34">
 		<layer name="Layer" visible="true">
@@ -1739,7 +1748,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+044a" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+044a" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-38" right="30">
 		<layer name="Layer" visible="true">
@@ -1749,7 +1758,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+044b" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+044b" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30">
 		<layer name="Layer" visible="true">
@@ -1760,7 +1769,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+044c" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+044c" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30">
 		<layer name="Layer" visible="true">
@@ -1770,7 +1779,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+044d" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+044d" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30">
 		<layer name="Layer" visible="true">
@@ -1779,7 +1788,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+044e" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+044e" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30">
 		<layer name="Layer" visible="true">
@@ -1788,7 +1797,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+044f" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+044f" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-30" right="30">
 		<layer name="Layer" visible="true">
@@ -1798,7 +1807,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+0451" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+0451" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-31" right="31">
 		<layer name="Layer" visible="true">
@@ -1809,7 +1818,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+2010" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+2010" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1818,7 +1827,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+2011" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+2011" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1827,7 +1836,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+2012" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+2012" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1836,7 +1845,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+2013" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+2013" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1845,7 +1854,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+2014" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+2014" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1854,7 +1863,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+2019" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+2019" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1863,7 +1872,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+201c" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+201c" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1873,7 +1882,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+201d" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+201d" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1883,7 +1892,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+20ac" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+20ac" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1892,7 +1901,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+20bd" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+20bd" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1902,7 +1911,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+20bf" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+20bf" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1914,7 +1923,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+2116" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+2116" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1930,7 +1939,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+2248" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+2248" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1940,7 +1949,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+2318" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+2318" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1963,7 +1972,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+23f8" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+23f8" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1973,7 +1982,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+25a0" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+25a0" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1982,7 +1991,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+25b6" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+25b6" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -1996,7 +2005,7 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+2605" svg="false" colr="false" auto_generate="false">
+<collection unicode="U+2605" svg="false" colr="false" auto_generate="false" meta_name="">
 	<selected id="1"/>
 	<glyph id="0" left="-28" right="28">
 		<layer name="Layer" visible="true">
@@ -2024,9 +2033,9 @@
 </spacingclasses>
 
 <alternate glyph="★" replacement="star" tag="salt" />
+<kerning left="L" right="@" hadjustment="0" />
 <kerning left="f" right="l" hadjustment="-9" />
 <kerning left="t" right="w" hadjustment="-8" />
-<kerning left="L" right="@" hadjustment="0" />
 <kerning left="f" right="x" hadjustment="-12" />
 <kerning left="f" right="b" hadjustment="-12" />
 <kerning left="f" right="B" hadjustment="-12" />
