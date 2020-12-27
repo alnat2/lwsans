@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <font>
 <format>3.20</format>
-<program version="4.8.0" os="*nix" />
+<program version="4.8.9" os="windows" />
 
 <postscript_name>LW sans</postscript_name>
 <name>LW sans</name>
@@ -175,19 +175,19 @@
 </collection>
 
 <collection unicode="U+28" svg="false" colr="false" auto_generate="false" meta_name="">
-	<selected id="0"/>
-	<glyph id="0" left="-20.01475" right="20.03344">
+	<selected id="1"/>
+	<glyph id="1" left="-7.01149" right="7.03344">
 		<layer name="Layer" visible="true">
-			<path data="B 4.03344,0 C 3.05037,0.01204 2.03344,0 2.03344,0 C -1.96656,0 -4,28.96 -4,32 C -4,34 -4.03344,40 -4,44 C -4,48 -1.96656,72 2.03344,72 C 4.03344,72 4.03344,71.9094 4.03344,72 C 4.03344,70 4.03344,70 4.03344,68 C 0.03344,68 0,48 0,44 C -0.03344,40 0,32 0,32 C 0,28 0.19075,4 4.03344,4 C 4.03344,0 4.03344,2 4.03344,0" />
+			<path data="B 4.03344,0 C 3.05037,0.01204 2.03344,0 2.03344,0 C -1.96656,0 -4,28.96 -4,32 C -3.98275,36.072 -4.03344,40 -4,44 C -4,48 -1.96656,72 2.03344,72 C 4.03344,72 4.03325,72.0534 4.03325,72.144 C 4.03325,71.994 4.03325,2.004 4.03344,0" />
 		</layer>
 	</glyph>
 </collection>
 
 <collection unicode="U+29" svg="false" colr="false" auto_generate="false" meta_name="">
-	<selected id="0"/>
-	<glyph id="0" left="-20.01475" right="20.03344">
+	<selected id="1"/>
+	<glyph id="1" left="-7.01475" right="7.03733">
 		<layer name="Layer" visible="true">
-			<path data="B -4.01475,4 C -0.17206,4 0.01869,28 0.01869,32 C 0.01869,32 0.05213,40 0.01869,44 C 0.01869,48 -0.01475,68 -4.01475,68 C -4.01475,70 -4.01475,70 -4.01475,72 C -4.01475,71.9094 -4.01475,72 -2.01475,72 C 1.98525,72 4.01869,48 4.01869,44 C 4.05213,40 4.01869,34 4.01869,32 C 4.01869,28.96 1.98525,0 -2.01475,0 C -2.01475,0 -3.03168,0.01204 -4.01475,0 C -4.01475,2 -4.01475,0 -4.01475,4" />
+			<path data="B -4.01475,72 C -4.01475,71.9094 -4.01475,72 -2.01475,72 C 1.98525,72 4.01869,48 4.01869,44 C 4.05213,40 4.03325,36.072 4.01869,32 C 4.01869,28.96 1.98525,0 -2.01475,0 C -2.01475,0 -3.03168,0.01204 -4.01475,0 C -3.98275,2.004 -4.01475,70.55 -4.01475,72" />
 		</layer>
 	</glyph>
 </collection>
@@ -2033,9 +2033,9 @@
 </spacingclasses>
 
 <alternate glyph="★" replacement="star" tag="salt" />
+<kerning left="f" right="l" hadjustment="-9" />
 <kerning left="t" right="w" hadjustment="-8" />
 <kerning left="L" right="@" hadjustment="0" />
-<kerning left="f" right="l" hadjustment="-9" />
 <kerning left="f" right="x" hadjustment="-12" />
 <kerning left="f" right="b" hadjustment="-12" />
 <kerning left="f" right="B" hadjustment="-12" />
